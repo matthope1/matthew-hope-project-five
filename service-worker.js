@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/matthew-hope-project-five/precache-manifest.291d829c3807ac083fab78230bf7ebc4.js"
+  "/matthew-hope-project-five/precache-manifest.2e7633e3b6b579131f37c97b19f0e75f.js"
 );
 
 workbox.clientsClaim();
